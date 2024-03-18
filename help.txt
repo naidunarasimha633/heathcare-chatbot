@@ -1,0 +1,5 @@
+1st time
+
+1st run python train.py
+
+then run app.py 
